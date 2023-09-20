@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Venus Bank</title>
-</head>
-<body>
-    <h1>Welcome To Venus Bank</h1>
-</body>
-</html>
+<?php
+    require_once "header.php";
+?>
+
+<h1>Welcome to our own dark web</h1>
