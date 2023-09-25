@@ -6,6 +6,12 @@
     <title><?php echo $pagetitle; ?></title>
 </head>
 <body>
-    
-</body>
-</html>
+    <header>
+        <h1>Logo</h1>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="register.php">Register</a></li>
+            </ul>
+        </nav>
+    </header>
